@@ -1,0 +1,9 @@
+{
+    "models": {
+        "linear": "./linear.joblib",
+        "poly-2": "./polynomial-2.joblib",
+        "poly-3": "./polynomial-3.joblib"
+    },
+    "default_model": "linear",
+    "debug": true
+}
